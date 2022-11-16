@@ -82,7 +82,7 @@ public class Challenge4 {
 		System.out.println("plusOne tests:");
 		System.out.println("--------------");
 		System.out.println("Expected: [1, 2, 4]");
-		System.out.println("Actual: " + plusOne(num1) + "\n\n");
+		System.out.println("Actual: " + Arrays.toString(plusOne(num1)) + "\n\n");
 		
 		// permute tests
 		System.out.println("permute Tests:");
